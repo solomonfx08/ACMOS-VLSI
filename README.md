@@ -14,3 +14,5 @@
 ### 3. ft vs gm/Id
 ![image](https://github.com/user-attachments/assets/d601420c-6a08-4adc-aa06-2d302b1477b0)
 
+## ACMOS REPORT
+https://github.com/solomonfx08/ACMOS-VLSI/blob/main/ACMOS_REPORT_MT2024535.pdf
